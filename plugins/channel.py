@@ -37,7 +37,7 @@ SILENTX_PREMIUM_UPDATE = """
 <b>🏷️ Genres</b>: {}
 <code>━━━━━━━━━━━━━━━━━━</code>
 
-<b>⚡ Powered By @SilentXBotz</b>
+<b>⚡ Powered By @Mrn_Officialx</b>
 """
 
 notified_movies = set()
