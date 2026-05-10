@@ -250,7 +250,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Mrn_Officialx">{file_name}</a></b>\n<b>•─────•─────────•─────•\n✯ MRN Uploaded ➥ @Mrn_Officialx\n✯ Chat Group ➥ @MRN_Chat_Group\n•─────•─────────•─────•</a></b>"""
+    CAPTION = """<b><a href="https://t.me/Mrn_Officialx">{file_name}</a></b>\n<b>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n🔰 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ @Mrn_Officialx\n👑 ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇꜱꜱ ➥ @Mimam_Officialx</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
