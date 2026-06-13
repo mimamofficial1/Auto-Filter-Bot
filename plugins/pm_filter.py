@@ -1506,7 +1506,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton ('🎁 sᴏᴜʀᴄᴇ', callback_data='source'),
         ],[
 			InlineKeyboardButton('ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🌺', url='https://t.me/Mrn_Officialx'),
-            InlineKeyboardButton('ʀᴇᴀʟɪᴛʏ ʜɪɴᴅɪ ᴛᴠ sʜᴏᴡs 🌺', url='https://t.me/+xmdNBqEfZTFkZTU1')
+            InlineKeyboardButton('ʀᴇᴀʟɪᴛʏ ʜɪɴᴅɪ ᴛᴠ sʜᴏᴡs 🌺', url='https://t.me/+MdUPwSnwvP0zN2U1')
 		],[
 			InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🌺', url='https://t.me/+lTO1v9u3v4FhODNl'),
             InlineKeyboardButton('ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ 🌺', url='https://t.me/+w3msCmFCw0Y5MDJl')
